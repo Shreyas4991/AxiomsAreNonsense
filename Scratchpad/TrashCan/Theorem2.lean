@@ -12,3 +12,5 @@ different file. This is all known to anyone who understands the module system, b
 theorem thm2 : False := by simp[thm1]
 
 #print axioms thm2
+
+-- ⊢
